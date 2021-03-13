@@ -23,7 +23,7 @@ Here are the areas I have projects in:
 - **Object Oriented Programming**
   + [Monopoly The Game](https://github.com/kadirhzrc/Monopoly-The-Game)
 - **Shell**
-  + [Shell Commands in C](https://github.com/kadirhzrc/Shell-Commands-On-C)
+  + [Shell Commands Port to C](https://github.com/kadirhzrc/Shell-Commands-On-C)
 - **SQL**
   + [Bank Database Commands](https://github.com/kadirhzrc/Small-Bank-Database)
 - **Web Server**
