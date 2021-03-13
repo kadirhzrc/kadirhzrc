@@ -5,6 +5,7 @@ Here are the areas I have projects in:
   + BMI Calculator
 - Artificial Intelligence
   + Square Maze Solver
+  + Benchmark on Minimum Vertex Tower Algorithms
 - Assembly
   + MIPS Matrix Multiplication 
 - Computer Vision
