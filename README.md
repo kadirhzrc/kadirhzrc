@@ -12,6 +12,9 @@ Here are the areas I have projects in:
   +  [MIPS Matrix Multiplication](https://github.com/kadirhzrc/MIPS-16-bit-Processor-in-LogiSim)
 - **Computer Vision**
   + [Tennis Ball Detector](https://github.com/kadirhzrc/tennis-ball-detection-opencv)
+- **Data Mining**
+  + [Classification Algorithm Comparison](https://github.com/kadirhzrc/tennis-ball-detection-opencv)
+  + [Frequent Pattern Mining and Clustering Algorithms Comparison](https://github.com/kadirhzrc/tennis-ball-detection-opencv)
 - **Data Structures**
   +  [Frequency Search Using Priority Queues on Heaps](https://github.com/kadirhzrc/frequency-search-pq-on-heaps)
 - **Logic & Microprocessors**
