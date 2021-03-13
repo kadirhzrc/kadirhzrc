@@ -7,7 +7,7 @@ Here are the areas I have projects in:
   + [BMI Calculator](https://github.com/kadirhzrc/android-bmi-calculator-app)
 - **Artificial Intelligence**
   + [Square Maze Solver](https://github.com/kadirhzrc/square-maze-solver-with-walls)
-  + [Benchmark on Minimum Vertex Tower Algorithms](https://github.com/kadirhzrc/java-genetic-algorithm-for-minimum-vertex-tower-problem)
+  + [Benchmark on Minimum Vertex Tower Problem Algorithms](https://github.com/kadirhzrc/java-genetic-algorithm-for-minimum-vertex-tower-problem)
 - **Assembly**
   +  [MIPS Matrix Multiplication](https://github.com/kadirhzrc/MIPS-16-bit-Processor-in-LogiSim)
 - **Computer Vision**
