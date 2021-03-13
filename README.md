@@ -25,7 +25,7 @@ Here are the areas I have projects in:
 - **Shell**
   + [Shell Commands Port to C](https://github.com/kadirhzrc/Shell-Commands-On-C)
 - **SQL**
-  + [Bank Database Commands](https://github.com/kadirhzrc/Small-Bank-Database)
+  + [Bank Database Procedures](https://github.com/kadirhzrc/Small-Bank-Database)
 - **Web Server**
   + [Travel Agency Simulation on Multiple Web Servers](https://github.com/kadirhzrc/java-travel-agency-web-server-simulation-with-simple-ui)
 - **Other**
