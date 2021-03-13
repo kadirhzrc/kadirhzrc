@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are the areas in which I have projects in:
+Here are the areas I have projects in:
 - Android
   + BMI Calculator
 - Artificial Intelligence
