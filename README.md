@@ -2,8 +2,9 @@
 
 Here are my projects based on the language:
 - Java
+- [I'm an inline-style link](https://www.google.com)
   + https://github.com/Ashwin-op/GitHub-Follow-Bot
-[I'm an inline-style link](https://www.google.com)
+
 <!--
 **kadirhzrc/kadirhzrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
