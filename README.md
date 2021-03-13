@@ -1,29 +1,29 @@
 ### Hi there 👋
 🔭 I’m currently working on my graduation project **The Cheater Mobile Game**.
 
-Here are the areas I have **projects** in:
+Here are the areas I have projects in:
 - **Android**
   + [The Cheater Mobile Game (Coming Soon!)](https://drive.google.com/file/d/1wGplt4eFulW9FXccZhi0sxSroAn7MEPl/view?usp=sharing) <-- Link to Gameplay
   + [BMI Calculator](https://github.com/kadirhzrc/android-bmi-calculator-app)
 - **Artificial Intelligence**
   + [Square Maze Solver](https://github.com/kadirhzrc/square-maze-solver-with-walls)
   + [Benchmark on Minimum Vertex Tower Algorithms](https://github.com/kadirhzrc/java-genetic-algorithm-for-minimum-vertex-tower-problem)
-- Assembly
+- **Assembly**
   +  [MIPS Matrix Multiplication](https://github.com/kadirhzrc/MIPS-16-bit-Processor-in-LogiSim)
-- Computer Vision
+- **Computer Vision**
   + [Tennis Ball Detector](https://github.com/kadirhzrc/tennis-ball-detection-opencv)
-- Data Structures
+- **Data Structures**
   +  [Frequency Search Using Priority Queues on Heaps](https://github.com/kadirhzrc/frequency-search-pq-on-heaps)
-- Logic & Microprocessors
+- **Logic & Microprocessors**
   + [Single Cycle Datapath in Verilog](https://github.com/kadirhzrc/single-cycle-datapath-with-complex-instructions)
   + [16-bit Processor in Logisim](https://github.com/kadirhzrc/MIPS-16-bit-Processor-in-LogiSim)
-- Shell
+- **Shell**
   + [Shell Commands in C](https://github.com/kadirhzrc/Shell-Commands-On-C)
-- SQL
+- **SQL**
   + [Bank Database Commands](https://github.com/kadirhzrc/Small-Bank-Database)
-- Web Server
+- **Web Server**
   + [Travel Agency Simulation on Multiple Web Servers](https://github.com/kadirhzrc/java-travel-agency-web-server-simulation-with-simple-ui)
-- Other
+- **Other**
   + [Anylogic](https://github.com/kadirhzrc/Transportation-Simulation-On-AnyLogic)
 
 
