@@ -13,8 +13,8 @@ Here are the areas I have projects in:
 - **Computer Vision**
   + [Tennis Ball Detector](https://github.com/kadirhzrc/tennis-ball-detection-opencv)
 - **Data Mining**
-  + [Classification Algorithm Comparison](https://github.com/kadirhzrc/tennis-ball-detection-opencv)
-  + [Frequent Pattern Mining and Clustering Algorithms Comparison](https://github.com/kadirhzrc/tennis-ball-detection-opencv)
+  + [Classification Algorithm Comparison](https://github.com/kadirhzrc/classification-algorithms-comparison)
+  + [Frequent Pattern Mining and Clustering Algorithms Comparison](https://github.com/kadirhzrc/frequent-pattern-mining-and-clustering)
 - **Data Structures**
   +  [Frequency Search Using Priority Queues on Heaps](https://github.com/kadirhzrc/frequency-search-pq-on-heaps)
 - **Logic & Microprocessors**
