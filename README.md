@@ -24,8 +24,6 @@ Here are the areas I have projects in:
 - Other
   + [Anylogic](https://github.com/kadirhzrc/Transportation-Simulation-On-AnyLogic)
 
-- [I'm an inline-style link](https://www.google.com)
-  + https://github.com/Ashwin-op/GitHub-Follow-Bot
 
 <!--
 **kadirhzrc/kadirhzrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
