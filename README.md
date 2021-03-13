@@ -17,6 +17,8 @@ Here are the areas I have projects in:
 - **Logic & Microprocessors**
   + [Single Cycle Datapath in Verilog](https://github.com/kadirhzrc/single-cycle-datapath-with-complex-instructions)
   + [16-bit Processor in Logisim](https://github.com/kadirhzrc/MIPS-16-bit-Processor-in-LogiSim)
+- **Object Oriented Programming**
+  + [Monopoly The Game](https://github.com/kadirhzrc/Monopoly-The-Game)
 - **Shell**
   + [Shell Commands in C](https://github.com/kadirhzrc/Shell-Commands-On-C)
 - **SQL**
