@@ -1,4 +1,5 @@
 ### Hi there 👋
+🔭 I’m currently working on my graduation project The Cheater Mobile Game.
 
 Here are the areas I have projects in:
 - Android
@@ -31,7 +32,7 @@ Here are the areas I have projects in:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
