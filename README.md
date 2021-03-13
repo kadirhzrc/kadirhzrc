@@ -34,6 +34,8 @@ Here are the areas I have projects in:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadirhzrc)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadirhzrc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **kadirhzrc/kadirhzrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
