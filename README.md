@@ -32,9 +32,8 @@ Here are the areas I have projects in:
   + [Anylogic](https://github.com/kadirhzrc/Transportation-Simulation-On-AnyLogic)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadirhzrc)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadirhzrc)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadirhzrc&layout=compact)]
 
 <!--
 **kadirhzrc/kadirhzrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
