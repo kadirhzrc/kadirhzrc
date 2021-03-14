@@ -29,7 +29,7 @@ Here are the areas I have projects in:
 - **Web Server**
   + [Travel Agency Simulation on Multiple Web Servers](https://github.com/kadirhzrc/java-travel-agency-web-server-simulation-with-simple-ui)
 - **Other**
-  + [Anylogic](https://github.com/kadirhzrc/Transportation-Simulation-On-AnyLogic)
+  + [Transportation Simulation Density on Anylogic](https://github.com/kadirhzrc/Transportation-Simulation-On-AnyLogic)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadirhzrc)
