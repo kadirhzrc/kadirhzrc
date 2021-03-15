@@ -21,7 +21,8 @@ Here are the areas I have projects in:
   + [Single Cycle Datapath in Verilog](https://github.com/kadirhzrc/single-cycle-datapath-with-complex-instructions)
   + [16-bit Processor in Logisim](https://github.com/kadirhzrc/MIPS-16-bit-Processor-in-LogiSim)
 - **Microprocessors**
-  +
+  + [FPGA 7-Segment Keyboard Connection](https://github.com/kadirhzrc/fpga-7segment-keypad-connection)
+  + [16-bit Processor in Logisim](https://github.com/kadirhzrc/MIPS-16-bit-Processor-in-LogiSim)
 - **Object Oriented Programming**
   + [Monopoly The Game](https://github.com/kadirhzrc/Monopoly-The-Game)
 - **Shell**
