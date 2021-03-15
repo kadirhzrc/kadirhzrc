@@ -20,6 +20,8 @@ Here are the areas I have projects in:
 - **Logic Design & Comp. Architecture**
   + [Single Cycle Datapath in Verilog](https://github.com/kadirhzrc/single-cycle-datapath-with-complex-instructions)
   + [16-bit Processor in Logisim](https://github.com/kadirhzrc/MIPS-16-bit-Processor-in-LogiSim)
+  + [Assembler for Single Cycle Datapath](https://github.com/kadirhzrc/MIPS-16-bit-Processor-in-LogiSim)
+  + [Assembly to Machine Code Assembler for Bird Design](https://github.com/kadirhzrc/MIPS-16-bit-Processor-in-LogiSim)
 - **Microprocessors**
   + [FPGA 7-Segment Keyboard Connection](https://github.com/kadirhzrc/fpga-7segment-keypad-connection)
   + [Bird Design in FPGA](https://github.com/kadirhzrc/bird-design-in-fpga)
