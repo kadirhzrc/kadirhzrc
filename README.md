@@ -17,9 +17,11 @@ Here are the areas I have projects in:
   + [Frequent Pattern Mining and Clustering Algorithms Comparison](https://github.com/kadirhzrc/frequent-pattern-mining-and-clustering)
 - **Data Structures**
   +  [Frequency Search Using Priority Queues on Heaps](https://github.com/kadirhzrc/frequency-search-pq-on-heaps)
-- **Logic & Microprocessors**
+- **Logic Design & Comp. Architecture**
   + [Single Cycle Datapath in Verilog](https://github.com/kadirhzrc/single-cycle-datapath-with-complex-instructions)
   + [16-bit Processor in Logisim](https://github.com/kadirhzrc/MIPS-16-bit-Processor-in-LogiSim)
+- **Microprocessors**
+  +
 - **Object Oriented Programming**
   + [Monopoly The Game](https://github.com/kadirhzrc/Monopoly-The-Game)
 - **Shell**
