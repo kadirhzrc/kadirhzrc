@@ -20,6 +20,7 @@ Here are the areas I have projects in:
 - **Logic Design & Comp. Architecture**
   + [Single Cycle Datapath in Verilog](https://github.com/kadirhzrc/single-cycle-datapath-with-complex-instructions)
   + [16-bit Processor in Logisim](https://github.com/kadirhzrc/MIPS-16-bit-Processor-in-LogiSim)
+  + [16-bit Processor Improved Clean Design with ISA](https://github.com/kadirhzrc/16-bit-processor-super-clean-design)
   + [Assembler for Single Cycle Datapath](https://github.com/kadirhzrc/assembler-single-cycle-datapath)
   + [Assembler for Bird Design](https://github.com/kadirhzrc/bird-design-assembler)
 - **Microprocessors**
