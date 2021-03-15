@@ -10,7 +10,7 @@ Here are the areas I have projects in:
   + [Square Maze Solver](https://github.com/kadirhzrc/square-maze-solver-with-walls)
   + [Benchmark on Minimum Vertex Tower Problem Algorithms](https://github.com/kadirhzrc/java-genetic-algorithm-for-minimum-vertex-tower-problem)
 - **Assembly**
-  +  [MIPS Matrix Multiplication](https://github.com/kadirhzrc/MIPS-16-bit-Processor-in-LogiSim)
+  +  [MIPS Matrix Multiplication](https://github.com/kadirhzrc/matrix-multiplier-in-MIPS)
 - **Computer Vision**
   + [Tennis Ball Detector](https://github.com/kadirhzrc/tennis-ball-detection-opencv)
 - **Data Mining**
