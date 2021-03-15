@@ -4,7 +4,7 @@
 Here are the areas I have projects in:
 - **Android**
   + [The Cheater Mobile Game (Coming Soon!)](https://drive.google.com/file/d/1wGplt4eFulW9FXccZhi0sxSroAn7MEPl/view?usp=sharing) **<-- Link to Gameplay**
-  + [Guess The Brand! Android App)](https://github.com/kadirhzrc/guess-the-brand-android-game) **
+  + [Guess The Brand! Android App](https://github.com/kadirhzrc/guess-the-brand-android-game)
   + [BMI Calculator](https://github.com/kadirhzrc/android-bmi-calculator-app)
 - **Artificial Intelligence**
   + [Square Maze Solver](https://github.com/kadirhzrc/square-maze-solver-with-walls)
