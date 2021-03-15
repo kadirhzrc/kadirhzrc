@@ -22,7 +22,7 @@ Here are the areas I have projects in:
   + [16-bit Processor in Logisim](https://github.com/kadirhzrc/MIPS-16-bit-Processor-in-LogiSim)
 - **Microprocessors**
   + [FPGA 7-Segment Keyboard Connection](https://github.com/kadirhzrc/fpga-7segment-keypad-connection)
-  + [16-bit Processor in Logisim](https://github.com/kadirhzrc/MIPS-16-bit-Processor-in-LogiSim)
+  + [Bird Design in FPGA](https://github.com/kadirhzrc/bird-design-in-fpga)
 - **Object Oriented Programming**
   + [Monopoly The Game](https://github.com/kadirhzrc/Monopoly-The-Game)
 - **Shell**
