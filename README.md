@@ -13,6 +13,7 @@ Here are the areas I have projects in:
   +  [MIPS Matrix Multiplication](https://github.com/kadirhzrc/matrix-multiplier-in-MIPS)
 - **Computer Vision**
   + [Tennis Ball Detector](https://github.com/kadirhzrc/tennis-ball-detection-opencv)
+  + [Image Restoration Using CLS](https://github.com/kadirhzrc/image-restoration-using-cls)
 - **Data Mining**
   + [Classification Algorithm Comparison](https://github.com/kadirhzrc/classification-algorithms-comparison)
   + [Frequent Pattern Mining and Clustering Algorithms Comparison](https://github.com/kadirhzrc/frequent-pattern-mining-and-clustering)
