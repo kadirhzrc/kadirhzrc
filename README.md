@@ -1,5 +1,6 @@
 ### Hi there 👋
-🔭 I’m currently working on my graduation project **The Cheater Mobile Game**.
+<!--🔭 I’m currently working on my graduation project **The Cheater Mobile Game**.
+-->
 
 Here are the areas I have projects in:
 - **Android**
