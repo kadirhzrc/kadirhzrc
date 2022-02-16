@@ -11,7 +11,7 @@ Here are the areas I have projects in:
   + [Square Maze Solver](https://github.com/kadirhzrc/square-maze-solver-with-walls)
   + [Benchmark on Minimum Vertex Tower Problem Algorithms](https://github.com/kadirhzrc/java-genetic-algorithm-for-minimum-vertex-tower-problem)
 - **Assembly**
-  +  [MIPS Matrix Multiplication](https://github.com/kadirhzrc/matrix-multiplier-in-MIPS)
+  + [MIPS Matrix Multiplication](https://github.com/kadirhzrc/matrix-multiplier-in-MIPS)
  - **Blockchain**
   +  [RainWolf Token](https://github.com/kadirhzrc/rainwolf-token)
 - **Computer Vision**
