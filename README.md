@@ -12,6 +12,8 @@ Here are the areas I have projects in:
   + [Benchmark on Minimum Vertex Tower Problem Algorithms](https://github.com/kadirhzrc/java-genetic-algorithm-for-minimum-vertex-tower-problem)
 - **Assembly**
   +  [MIPS Matrix Multiplication](https://github.com/kadirhzrc/matrix-multiplier-in-MIPS)
+ - **Blockchain**
+  +  [RainWolf Token](https://github.com/kadirhzrc/rainwolf-token)
 - **Computer Vision**
   + [Tennis Ball Detector](https://github.com/kadirhzrc/tennis-ball-detection-opencv)
   + [Image Restoration Using CLS](https://github.com/kadirhzrc/image-restoration-using-cls)
