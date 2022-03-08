@@ -33,8 +33,9 @@ Here are the areas I have projects in:
   + [Bird Design in FPGA](https://github.com/kadirhzrc/bird-design-in-fpga)
 - **Object Oriented Programming**
   + [Monopoly The Game](https://github.com/kadirhzrc/Monopoly-The-Game)
-- **Shell**
+- **Scripting**
   + [Shell Commands Port to C](https://github.com/kadirhzrc/Shell-Commands-On-C)
+  + [PUBG No-Recoil Mouse Script](https://github.com/kadirhzrc/pubg-lua-norecoil)
 - **SQL**
   + [Bank Database Procedures](https://github.com/kadirhzrc/Small-Bank-Database)
 - **Web Server**
