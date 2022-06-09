@@ -4,9 +4,10 @@
 
 Here are the areas I have projects in:
 - **Android**
-  + [The Cheater Mobile Game (Coming Soon!)](https://drive.google.com/file/d/1wGplt4eFulW9FXccZhi0sxSroAn7MEPl/view?usp=sharing) **<-- Link to Gameplay**
-  + [Guess The Brand! Android App](https://github.com/kadirhzrc/guess-the-brand-android-game)
   + [BMI Calculator](https://github.com/kadirhzrc/android-bmi-calculator-app)
+  + [Guess The Brand! Android App](https://github.com/kadirhzrc/guess-the-brand-android-game)
+  + [The Cheater Mobile Game (Coming Soon!)](https://drive.google.com/file/d/1wGplt4eFulW9FXccZhi0sxSroAn7MEPl/view?usp=sharing) **<-- Link to Gameplay**
+
 - **Artificial Intelligence**
   + [Square Maze Solver](https://github.com/kadirhzrc/square-maze-solver-with-walls)
   + [Benchmark on Minimum Vertex Tower Problem Algorithms](https://github.com/kadirhzrc/java-genetic-algorithm-for-minimum-vertex-tower-problem)
