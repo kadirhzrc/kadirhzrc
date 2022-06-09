@@ -19,7 +19,6 @@ Here are the areas I have projects in:
   + [Image Restoration Using CLS](https://github.com/kadirhzrc/image-restoration-using-cls)
   + [Tennis Ball Detector](https://github.com/kadirhzrc/tennis-ball-detection-opencv)
 - **Data Mining**
-  + [Classification Algorithm Comparison](https://github.com/kadirhzrc/classification-algorithms-comparison)
   + [Frequent Pattern Mining and Clustering Algorithms Comparison](https://github.com/kadirhzrc/frequent-pattern-mining-and-clustering)
 - **Data Structures**
   + [Frequency Search Using Priority Queues on Heaps](https://github.com/kadirhzrc/frequency-search-pq-on-heaps)
@@ -52,7 +51,7 @@ Here are the areas I have projects in:
 **kadirhzrc/kadirhzrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
++ [Classification Algorithm Comparison](https://github.com/kadirhzrc/classification-algorithms-comparison)
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
