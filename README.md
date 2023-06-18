@@ -4,8 +4,8 @@
 
 Here are the areas I have projects in:
 - **Azure**
-  + [Azure Service Principal Secret Renewal Automation](https://github.com/kadirhzrc/android-bmi-calculator-app)
-  + [Azure Databricks PAT Renewal Automation](https://github.com/kadirhzrc/android-bmi-calculator-app)
+  + [Azure Service Principal Secret Renewal Automation](https://github.com/kadirhzrc/azure-service-principal-secret-renewal-automation)
+  + [Azure Databricks PAT Renewal Automation](https://github.com/kadirhzrc/azure-databricks-pat-renewal-automation)
     
 - **Android**
   + [BMI Calculator](https://github.com/kadirhzrc/android-bmi-calculator-app)
