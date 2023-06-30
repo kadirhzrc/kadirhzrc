@@ -3,7 +3,7 @@
 -->
 
 Here are the areas I have projects in:
-- **Azure**
+- **Azure & Low Code Scripting**
   + [Azure Service Principal Secret Renewal Automation](https://github.com/kadirhzrc/azure-service-principal-secret-renewal-automation)
   + [Azure Databricks PAT Renewal Automation](https://github.com/kadirhzrc/azure-databricks-pat-renewal-automation)
     
